@@ -1,10 +1,6 @@
 <h1 align="center"> Feed Me Platform </h1>
-
+# About the project
 Create a platform that make a relation between the users and an external API by letting them contribute to the website with their own reviews and suggesting restaurant additions
-
-```
-Ру :
-```
 
 # О проэкт
 
