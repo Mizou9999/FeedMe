@@ -2,11 +2,11 @@
 
 Create a platform that make a relation between the users and an external API by letting them contribute to the website with their own reviews and suggesting restaurant additions
 
-```
-О проэкт
-```
+# О проэкт
 
+```
 Создание платформы, обеспечивающей связь между пользователями и внешним API, позволяющую им вносить свой вклад в сайт с собственными отзывами и дополнять ресторанами.
+```
 
 # Getting started
 
