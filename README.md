@@ -55,7 +55,7 @@ npm run server
 
 Then go to `http://localhost:9300/`.
 
-## Tools Used
+# Tools Used
 
 - [Webpack](https://webpack.js.org/) Module bundler
 - [babel](https://babeljs.io/) convert ECMAScript 2015+ code into a backwards compatible version of JavaScript
@@ -65,20 +65,6 @@ Then go to `http://localhost:9300/`.
 - [nouislider](https://refreshless.com/nouislider/) Range slider
 - [style-loader](https://github.com/webpack-contrib/style-loader) Inject CSS in the DOM
 
-To make a production build run this command,
+## Contributors
 
-```
-npm run build
-```
-
-This will replace the old bundle with a new one in the `/dist` directory.
-
-### Modify proxy
-
-```
-/webpack.config.js
-```
-
-Change `target` path
-
-More info @ https://webpack.js.org/configuration/dev-server/#devserverproxy
+- [Aimen Aounallah](https://github.com/Mizou9999)
